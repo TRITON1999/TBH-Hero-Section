@@ -1,38 +1,301 @@
-.App {
+.tbh-web-app {
+  height: 100vh;
+  overflow-x: hidden;
+  orverflow-y: auto;
+}
+.tbh-web-app::-webkit-scrollbar {
+  display: none;
+}
+.upp {
+  position: relative;
+  z-index: 10;
+}
+.navbar {
+  background-color: rgba(255, 255, 255, 0.039);
+  padding: 5px 60px;
+  margin-left: -100px;
+  margin-right: -100px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  color: #eee;
+  font-weight: 600;
+}
+.navbar-logo {
+  display: flex;
+  align-items: center;
+}
+.nacbar-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.navbar img {
+  height: 55px;
+}
+button {
+  cursor: pointer;
+}
+.content-details {
+  padding: 0 10vw;
+  background-image: linear-gradient(#001522, #002033);
+  background-repeat: repeat;
+}
+.master-text {
+  font-size: 45px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+}
+.secondary-text {
+  color: #fff1a5;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+.simple-text {
+  color: white;
+  font-size: 1.5vw;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+}
+.secondary-text-roman {
+  color: #fff1a5;
+  font-size: 3vw;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+.explore {
+  color: #ff7a00;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 10px;
+  padding: 10px;
+}
+.centred {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.detail-1 {
+  padding-top: 10vh;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  text-align: center;
+}
+.benefit-cards {
+  padding-top: 5vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 2vw;
+}
+.benefit-cards .secondary-text {
+}
+.benifit-detail-card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 10px rgb(255, 136, 0);
+}
+.benifit-detail-card img {
+  height: 30px;
+}
+.benifit-detail-card p {
+  margin: 0;
+  padding: 10px 0;
+  color: black;
+}
+.benifit-detail-card .simple-text {
+  font-size: 1vw;
+  font-weight: 700;
+  font-family: "Courier New", Courier, monospace;
+}
+.benifit-detail-card .master-text {
+  font-size: 2.5vw;
+  font-weight: 700;
+}
+.bootcamp-details {
+  padding-top: 6vw;
+  display: grid;
+  gap: 5vw;
+  grid-template-columns: 1fr 2fr;
+}
+.bootcamp-grid {
+  display: grid;
+  row-gap: 3vw;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+.bootcamp-details img {
+  height: 10vh;
+  border-radius: 10%;
+}
+.bootcamp-details .secondary-text {
+  margin: 0;
+  padding-top: 1.3vw;
+  font-size: 8vh;
+  font-weight: 600;
+  font-family: "Libre Baskerville", serif;
+}
+.bootcamp-details .simple-text {
+  font-size: 3.5vh;
+}
+.bootcamp-card {
+  border-radius: 20px;
+  background-color: white;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  box-shadow: 0 0 10px rgb(202, 106, 22);
+  color: black;
+}
+.bootcamp-card img {
+  margin: auto;
+  height: 80%;
+}
+.bootcamp-card .simple-text {
+  color: black;
+  font-size: 16px;
+}
+.bootcamp-card .master-text {
+  color: black;
+  padding-top: 10%;
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+}
+.bootcamp-details button {
+  margin-top: 1.2vw;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 20px;
+  font-weight: 800;
+  font-size: 4vh;
+  padding: 10px 20px;
+}
+.about-details {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* for the background animation */
+
+@import url(https://fonts.googleapis.com/css?family=Orbitron:700);
+
+/* Stars 
+------------------------------------- */
+
+#space,
+.stars {
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.stars {
+  background-image: radial-gradient(
+      1px 1px at 20px 30px,
+      #eee,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(1px 1px at 40px 70px, #fff, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 1px at 50px 160px, #ddd, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 1px at 90px 40px, #fff, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 1px at 130px 80px, #fff, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 0.5px at 160px 120px, #ddd, rgba(0, 0, 0, 0));
+  background-repeat: repeat;
+  background-size: 200px 200px;
+  animation: zoom 5s infinite;
+  opacity: 0;
 }
 
-.App-link {
-  color: #61dafb;
+.stars:nth-child(1) {
+  background-position: 50% 50%;
+  animation-delay: 0s;
+}
+.stars:nth-child(2) {
+  background-position: 20% 60%;
+  animation-delay: 1s;
+}
+.stars:nth-child(3) {
+  background-position: -20% -30%;
+  animation-delay: 2s;
+}
+.stars:nth-child(4) {
+  background-position: 40% -80%;
+  animation-delay: 3s;
+}
+.stars:nth-child(5) {
+  background-position: -20% 30%;
+  animation-delay: 4s;
 }
 
-@keyframes App-logo-spin {
-  from {
+@keyframes zoom {
+  0% {
+    opacity: 0;
     transform: rotate(0deg);
+    transform: scale(0.5);
+    animation-timing-function: ease-in;
   }
-  to {
-    transform: rotate(360deg);
+  85% {
+    opacity: 1;
+    transform: scale(2.8);
+    animation-timing-function: linear;
   }
+  100% {
+    opacity: 0;
+    transform: rotate(30deg);
+    transform: scale(3.5);
+  }
+}
+
+.hero-section {
+  height: 100vh;
+  overflow: hidden;
+  padding: 0 100px;
+}
+@keyframes flyStart {
+  0% {
+    transform: scale(0.5);
+    margin-top: 50vh;
+    margin-left: 50vw;
+  }
+  50% {
+    transform: scale(0.7);
+    margin-top: -100vh;
+    margin-left: -100vw;
+  }
+  56% {
+    margin-top: 100vh;
+    margin-left: -100vw;
+  }
+  100% {
+    transform: scale(1);
+    margin: 0;
+  }
+}
+@keyframes hover {
+  0% {
+    margin: 0;
+  }
+  33% {
+    margin-top: 15vh;
+    margin-left: 6vw;
+  }
+  66% {
+    margin-top: -6vh;
+    margin-left: -6vw;
+    animation-timing-function: linear;
+  }
+  100% {
+    margin: 0;
+    animation-timing-function: linear;
+  }
+}
+.hero-img {
+  overflow: hidden;
+}
+.rocket-img {
+  position: absolute;
+  z-index: 5;
+  animation: flyStart 2s, hover 15s 2s infinite;
 }
