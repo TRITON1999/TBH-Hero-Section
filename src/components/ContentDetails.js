@@ -4,22 +4,22 @@ import BootcampCard from "./BootcampCard";
 
 const data = [
   {
-    src: "./icons8-personal-computer-24.png",
+    src: require("./icons8-personal-computer-24.png"),
     title: "Intensive Interview Workshop",
     con: "2Hrs Of LIVE Workshop Which Will Cover Interview Preparation Strategy, Technique To Ace Any Interviews And Much More…",
   },
   {
-    src: "./icons8-lecture-64.png",
+    src: require("./icons8-lecture-64.png"),
     title: "Public Speaking Workshop",
     con: "Idea + Confidence + Content \n Deliver,Make YOU \n Stand Out The Crowd \n And Be A Great Public Speaker",
   },
   {
-    src: "./icons8-conference.gif",
+    src: require("./icons8-conference.gif"),
     title: "Human Resource Workshop",
     con: "Do You Want To Make \n Your Career In HR But \n Don’t Know From Where To Start,\n What Should Be The Right Pathway, Is This The Right Career For You?",
   },
   {
-    src: "./icons8-literature.gif",
+    src: require("./icons8-literature.gif"),
     title: "Résumé Building Workshop",
     con: "3 Hrs Of LIVE Session\nWith One-To-One Mentorship\nTo Prepare Your \nVideo And Written Resume \nFor All Your Upcoming Interviews",
   },
@@ -27,17 +27,17 @@ const data = [
 
 const bootcampData = [
   {
-    src: "./image 2.png",
+    src: require("./image2.png"),
     title: "Young Leaders Bootcamp",
     con: "Our flagship program which covers each and every aspect of the interview process like Group Discussion, Panel Discussion, Personal Interview, etc.",
   },
   {
-    src: "./image 3.png",
+    src: require("./image3.png"),
     title: "Human Resource Generalist Bootcamp",
     con: "The Bootcamp will cover all aspects which HR dealt with from Talent Acquisition to Payroll and Policy. Learn from the Expert itself how the role evolves in the industry.",
   },
   {
-    src: "./image 4.png",
+    src: require("./image4.png"),
     title: "Intensive Interview Bootcamp",
     con: "Crack your next Interview with 3 days of LIVE intensive preparation with 1:1 mentoring, feedback and mock by industry experts.",
   },
