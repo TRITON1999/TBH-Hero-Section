@@ -1,18 +1,23 @@
 {
   "files": {
     "main.css": "/TBH-Hero-Section/static/css/main.59ea25e6.css",
-    "main.js": "/TBH-Hero-Section/static/js/main.40cc9f75.js",
+    "main.js": "/TBH-Hero-Section/static/js/main.52b61518.js",
     "static/js/787.fe83ed8c.chunk.js": "/TBH-Hero-Section/static/js/787.fe83ed8c.chunk.js",
     "static/media/rocketman.png": "/TBH-Hero-Section/static/media/rocketman.c83cc1ee3367c2680e22.png",
+    "static/media/icons8-literature.gif": "/TBH-Hero-Section/static/media/icons8-literature.b9335896c794a81ff689.gif",
+    "static/media/image2.png": "/TBH-Hero-Section/static/media/image2.56b50c0480400645e8f4.png",
+    "static/media/image4.png": "/TBH-Hero-Section/static/media/image4.dd523c0fcc08f3ad79a2.png",
+    "static/media/image3.png": "/TBH-Hero-Section/static/media/image3.8ef986dc37c28967ae72.png",
     "static/media/astroParty-.png": "/TBH-Hero-Section/static/media/astroParty-.b9c32ba85e38a5cf830f.png",
+    "static/media/icons8-conference.gif": "/TBH-Hero-Section/static/media/icons8-conference.7e044f063008ae62a32b.gif",
     "static/media/logo.png": "/TBH-Hero-Section/static/media/logo.208eed551466795f42cc.png",
     "index.html": "/TBH-Hero-Section/index.html",
     "main.59ea25e6.css.map": "/TBH-Hero-Section/static/css/main.59ea25e6.css.map",
-    "main.40cc9f75.js.map": "/TBH-Hero-Section/static/js/main.40cc9f75.js.map",
+    "main.52b61518.js.map": "/TBH-Hero-Section/static/js/main.52b61518.js.map",
     "787.fe83ed8c.chunk.js.map": "/TBH-Hero-Section/static/js/787.fe83ed8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59ea25e6.css",
-    "static/js/main.40cc9f75.js"
+    "static/js/main.52b61518.js"
   ]
 }
