@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/TBH-Citcle.guthub.io/static/css/main.59ea25e6.css",
-    "main.js": "/TBH-Citcle.guthub.io/static/js/main.86c395e2.js",
-    "static/js/787.fe83ed8c.chunk.js": "/TBH-Citcle.guthub.io/static/js/787.fe83ed8c.chunk.js",
-    "static/media/logo.png": "/TBH-Citcle.guthub.io/static/media/logo.208eed551466795f42cc.png",
-    "index.html": "/TBH-Citcle.guthub.io/index.html",
-    "main.59ea25e6.css.map": "/TBH-Citcle.guthub.io/static/css/main.59ea25e6.css.map",
-    "main.86c395e2.js.map": "/TBH-Citcle.guthub.io/static/js/main.86c395e2.js.map",
-    "787.fe83ed8c.chunk.js.map": "/TBH-Citcle.guthub.io/static/js/787.fe83ed8c.chunk.js.map"
+    "main.css": "/TBH-Hero-Section/static/css/main.59ea25e6.css",
+    "main.js": "/TBH-Hero-Section/static/js/main.40cc9f75.js",
+    "static/js/787.fe83ed8c.chunk.js": "/TBH-Hero-Section/static/js/787.fe83ed8c.chunk.js",
+    "static/media/rocketman.png": "/TBH-Hero-Section/static/media/rocketman.c83cc1ee3367c2680e22.png",
+    "static/media/astroParty-.png": "/TBH-Hero-Section/static/media/astroParty-.b9c32ba85e38a5cf830f.png",
+    "static/media/logo.png": "/TBH-Hero-Section/static/media/logo.208eed551466795f42cc.png",
+    "index.html": "/TBH-Hero-Section/index.html",
+    "main.59ea25e6.css.map": "/TBH-Hero-Section/static/css/main.59ea25e6.css.map",
+    "main.40cc9f75.js.map": "/TBH-Hero-Section/static/js/main.40cc9f75.js.map",
+    "787.fe83ed8c.chunk.js.map": "/TBH-Hero-Section/static/js/787.fe83ed8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59ea25e6.css",
-    "static/js/main.86c395e2.js"
+    "static/js/main.40cc9f75.js"
   ]
 }
