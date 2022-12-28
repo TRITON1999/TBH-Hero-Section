@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TBH-Circle/static/css/main.59ea25e6.css",
-    "main.js": "/TBH-Circle/static/js/main.c2ce8df1.js",
-    "static/js/787.fe83ed8c.chunk.js": "/TBH-Circle/static/js/787.fe83ed8c.chunk.js",
-    "static/media/logo.png": "/TBH-Circle/static/media/logo.208eed551466795f42cc.png",
-    "index.html": "/TBH-Circle/index.html",
-    "main.59ea25e6.css.map": "/TBH-Circle/static/css/main.59ea25e6.css.map",
-    "main.c2ce8df1.js.map": "/TBH-Circle/static/js/main.c2ce8df1.js.map",
-    "787.fe83ed8c.chunk.js.map": "/TBH-Circle/static/js/787.fe83ed8c.chunk.js.map"
+    "main.css": "/TBH-Citcle/static/css/main.59ea25e6.css",
+    "main.js": "/TBH-Citcle/static/js/main.fc3eea72.js",
+    "static/js/787.fe83ed8c.chunk.js": "/TBH-Citcle/static/js/787.fe83ed8c.chunk.js",
+    "static/media/logo.png": "/TBH-Citcle/static/media/logo.208eed551466795f42cc.png",
+    "index.html": "/TBH-Citcle/index.html",
+    "main.59ea25e6.css.map": "/TBH-Citcle/static/css/main.59ea25e6.css.map",
+    "main.fc3eea72.js.map": "/TBH-Citcle/static/js/main.fc3eea72.js.map",
+    "787.fe83ed8c.chunk.js.map": "/TBH-Citcle/static/js/787.fe83ed8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59ea25e6.css",
-    "static/js/main.c2ce8df1.js"
+    "static/js/main.fc3eea72.js"
   ]
 }
