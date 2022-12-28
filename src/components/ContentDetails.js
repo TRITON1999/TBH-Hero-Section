@@ -47,7 +47,7 @@ const ContentDetails = () => {
     <div className="content-details upp">
       <div className="detail-1">
         <div>
-          <img src="./astroParty-.png" alt="" />
+          <img src={require("./astroParty-.png")} alt="" />
         </div>
         <div>
           <p className="secondary-text-roman">
@@ -70,10 +70,10 @@ const ContentDetails = () => {
           Skills You Learn Today Will Make Your Tomorrow
         </p>
         <p className="simple-text">
-          "It’s about time when you outshine in this world of talent and earn a
+          It’s about time when you outshine in this world of talent and earn a
           name for yourself, don’t wait till it’s too late, start with any of
           our Master Workshops to hone your skills leading to holistic
-          development."
+          development.
         </p>
       </div>
       <div className="benefit-cards">

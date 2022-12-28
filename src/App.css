@@ -88,8 +88,6 @@ button {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 2vw;
 }
-.benefit-cards .secondary-text {
-}
 .benifit-detail-card {
   background-color: white;
   padding: 20px;

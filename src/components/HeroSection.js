@@ -46,7 +46,7 @@ const HeroSection = () => {
           </div>{" "}
         </div>
         <div className="hero-img">
-          <img className="rocket-img" src="./rocketman.png" alt="" />
+          <img className="rocket-img" src={require("./rocketman.png")} alt="" />
         </div>
       </div>
     </div>
