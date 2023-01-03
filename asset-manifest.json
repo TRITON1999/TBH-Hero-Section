@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/TBH-Hero-Section/static/css/main.59ea25e6.css",
-    "main.js": "/TBH-Hero-Section/static/js/main.52b61518.js",
+    "main.css": "/TBH-Hero-Section/static/css/main.7b679bfd.css",
+    "main.js": "/TBH-Hero-Section/static/js/main.e74666b6.js",
     "static/js/787.fe83ed8c.chunk.js": "/TBH-Hero-Section/static/js/787.fe83ed8c.chunk.js",
+    "static/media/prachi.png": "/TBH-Hero-Section/static/media/prachi.90aa0f1a9e816f3ac0c3.png",
     "static/media/rocketman.png": "/TBH-Hero-Section/static/media/rocketman.c83cc1ee3367c2680e22.png",
     "static/media/icons8-literature.gif": "/TBH-Hero-Section/static/media/icons8-literature.b9335896c794a81ff689.gif",
     "static/media/image2.png": "/TBH-Hero-Section/static/media/image2.56b50c0480400645e8f4.png",
+    "static/media/vikram.png": "/TBH-Hero-Section/static/media/vikram.48a8a9581af7e5be02b4.png",
+    "static/media/astro-summer.png": "/TBH-Hero-Section/static/media/astro-summer.038e965eab4ca2481991.png",
+    "static/media/vijay.png": "/TBH-Hero-Section/static/media/vijay.ae2bcba536fcbef9937c.png",
+    "static/media/sumit.png": "/TBH-Hero-Section/static/media/sumit.e03a3d8d9009e6a9ef12.png",
     "static/media/image4.png": "/TBH-Hero-Section/static/media/image4.dd523c0fcc08f3ad79a2.png",
     "static/media/image3.png": "/TBH-Hero-Section/static/media/image3.8ef986dc37c28967ae72.png",
     "static/media/astroParty-.png": "/TBH-Hero-Section/static/media/astroParty-.b9c32ba85e38a5cf830f.png",
     "static/media/icons8-conference.gif": "/TBH-Hero-Section/static/media/icons8-conference.7e044f063008ae62a32b.gif",
     "static/media/logo.png": "/TBH-Hero-Section/static/media/logo.208eed551466795f42cc.png",
+    "static/media/linkedin-gif.gif": "/TBH-Hero-Section/static/media/linkedin-gif.a06c9bce71d47567be0f.gif",
     "index.html": "/TBH-Hero-Section/index.html",
-    "main.59ea25e6.css.map": "/TBH-Hero-Section/static/css/main.59ea25e6.css.map",
-    "main.52b61518.js.map": "/TBH-Hero-Section/static/js/main.52b61518.js.map",
+    "main.7b679bfd.css.map": "/TBH-Hero-Section/static/css/main.7b679bfd.css.map",
+    "main.e74666b6.js.map": "/TBH-Hero-Section/static/js/main.e74666b6.js.map",
     "787.fe83ed8c.chunk.js.map": "/TBH-Hero-Section/static/js/787.fe83ed8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59ea25e6.css",
-    "static/js/main.52b61518.js"
+    "static/css/main.7b679bfd.css",
+    "static/js/main.e74666b6.js"
   ]
 }
