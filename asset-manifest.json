@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TBH-Hero-Section/static/css/main.7b679bfd.css",
-    "main.js": "/TBH-Hero-Section/static/js/main.e74666b6.js",
+    "main.css": "/TBH-Hero-Section/static/css/main.95a2c08a.css",
+    "main.js": "/TBH-Hero-Section/static/js/main.efe72c5e.js",
     "static/js/787.fe83ed8c.chunk.js": "/TBH-Hero-Section/static/js/787.fe83ed8c.chunk.js",
     "static/media/prachi.png": "/TBH-Hero-Section/static/media/prachi.90aa0f1a9e816f3ac0c3.png",
     "static/media/rocketman.png": "/TBH-Hero-Section/static/media/rocketman.c83cc1ee3367c2680e22.png",
@@ -18,12 +18,12 @@
     "static/media/logo.png": "/TBH-Hero-Section/static/media/logo.208eed551466795f42cc.png",
     "static/media/linkedin-gif.gif": "/TBH-Hero-Section/static/media/linkedin-gif.a06c9bce71d47567be0f.gif",
     "index.html": "/TBH-Hero-Section/index.html",
-    "main.7b679bfd.css.map": "/TBH-Hero-Section/static/css/main.7b679bfd.css.map",
-    "main.e74666b6.js.map": "/TBH-Hero-Section/static/js/main.e74666b6.js.map",
+    "main.95a2c08a.css.map": "/TBH-Hero-Section/static/css/main.95a2c08a.css.map",
+    "main.efe72c5e.js.map": "/TBH-Hero-Section/static/js/main.efe72c5e.js.map",
     "787.fe83ed8c.chunk.js.map": "/TBH-Hero-Section/static/js/787.fe83ed8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b679bfd.css",
-    "static/js/main.e74666b6.js"
+    "static/css/main.95a2c08a.css",
+    "static/js/main.efe72c5e.js"
   ]
 }
